@@ -1,0 +1,1 @@
+C:\Projects\Demo Code\SQL2016Demos.VS2015\Code\Module4\AEClient\bin\Debug\AEClient.exe.config
